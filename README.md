@@ -1,7 +1,7 @@
-# Projeto de Reconhecimento Facial - Panorama Windows
+# Projeto de Reconhecimento Facial - Projeto Panorama
 
 ## Descrição
-Um sistema de reconhecimento facial implementado em Python com interface kvlang para Panorama Windows.
+Um sistema de reconhecimento facial implementado em Python com interface kvlang para Windows.
 
 ## Estrutura do Projeto
 ├── assets/           # Recursos e ativos do projeto
